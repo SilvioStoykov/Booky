@@ -35,7 +35,7 @@
     }
     #left-bar li{
         list-style: none;
-        margin-left: 20px;
+        margin-left: 40px;
     }
 
     #right-bar{
